@@ -34,5 +34,5 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/osx
 
 # Created my files for ignore
-yfinance.ipynb
-tradingview_ta.ipynb
+.yfinance.ipynb
+.tradingview_ta.ipynb
