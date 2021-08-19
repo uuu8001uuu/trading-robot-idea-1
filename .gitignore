@@ -36,6 +36,7 @@ Temporary Items
 # Created my files for ignore
 yfinance.ipynb
 tradingview_ta.ipynb
+draft-*.*
 
 # Created my folders for ignore
 draft
